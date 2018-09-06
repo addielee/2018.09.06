@@ -1,0 +1,8 @@
+[Object클래스]
+
+Object - 속성
+	 메소드 - toString() : 객체의 주소를 만들어서 문자열로 리턴
+
+String - 속성
+	 메소드 - toString() : Object에서 받아오니깐 오버라이딩
+			       String 객체의 문자열 리턴
